@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-table
 
 ## Project setup
@@ -27,3 +28,6 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-simple-table
+>>>>>>> e757ea61cd2dd08a7d7dfff56b731c3e5d09da17
